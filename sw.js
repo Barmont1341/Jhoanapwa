@@ -1,11 +1,11 @@
 //Asignar nombre y version de la cache
-const CACHE_NAME = 'v1_cache_Myrkapwa'
+const CACHE_NAME = 'v1_cache_Jhoanapwa'
 
 //ficheros a cachear en la aplicacion
 var urlsToCache = [
     './',
-    './css/styles.css',
-    './img/IconoPWA.png',
+    './CSS/styles.css',
+    './img/JHOANA.png',
     './img/1.png',
     './img/2.png',
     './img/3.png',
